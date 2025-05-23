@@ -1,0 +1,125 @@
+<!-- filepath: e:\TA1\templates\dashboard.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IDS Dashboard</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link href="{{ url_for('static', filename='css/styles.css') }}" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body class="bg-light">
+    <div class="container-fluid px-4 py-3">
+        <h1 class="text-center logo mb-4">
+            <i class="fas fa-shield-alt"></i> IDS Dashboard
+        </h1>
+        
+        <nav class="nav-custom justify-content-center mb-4">
+            <a class="nav-link active" href="/"><i class="fas fa-home"></i> Trang Chủ</a>
+            <a class="nav-link" href="/functionality"><i class="fas fa-cogs"></i> Chức năng</a>
+            <a class="nav-link" href="/rules"><i class="fas fa-list"></i> Quy tắc</a>
+            <a class="nav-link" href="/log"><i class="fas fa-history"></i> Log</a>
+            <a class="nav-link text-danger" href="/logout">
+                <i class="fas fa-sign-out-alt"></i> Đăng xuất ({{ username }})
+            </a>
+        </nav>
+
+        <div class="row">
+            <div class="col-md-3 col-sm-6 mb-4">
+                <div class="stats-card">
+                    <div class="stats-card-content">
+                        <i class="fas fa-calendar-alt stats-icon"></i>
+                        <div class="stats-info">
+                            <h6>Ngày</h6>
+                            <p class="mb-0">{{ current_date }}</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-3 col-sm-6 mb-4">
+                    <div class="stats-card">
+                        <div class="stats-card-content">
+                            <i class="fas fa-network-wired stats-icon"></i>
+                            <div class="stats-info">
+                                <h6>Tổng gói tin</h6>
+                                <p class="mb-0">0</p> <!-- Giá trị sẽ được cập nhật -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6 mb-4">
+                    <div class="stats-card">
+                        <div class="stats-card-content">
+                            <i class="fas fa-shield-virus stats-icon"></i>
+                            <div class="stats-info">
+                                <h6>Cuộc tấn công</h6>
+                                <p class="mb-0">0</p> <!-- Giá trị sẽ được cập nhật -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6 mb-4">
+                    <div class="stats-card">
+                        <div class="stats-card-content">
+                            <i class="fas fa-clock stats-icon"></i>
+                            <div class="stats-info">
+                                <h6>Thời gian hoạt động</h6>
+                                <p class="mb-0" id="uptime">00:00:00</p> <!-- Giá trị sẽ được cập nhật -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6 mb-4">
+                <div class="chart-card">
+                    <h5><i class="fas fa-chart-bar"></i> Số lượng gói tin đặc biệt</h5>
+                    <canvas id="barChart"></canvas>
+                </div>
+            </div>
+            <div class="col-md-6 mb-4">
+                <div class="chart-card">
+                    <h5><i class="fas fa-chart-line"></i> Lượng gói tin trong ngày</h5>
+                    <canvas id="lineChart"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6 mb-4">
+                <div class="chart-card">
+                    <h5><i class="fas fa-chart-pie"></i> Tỷ lệ các cuộc tấn công</h5>
+                    <canvas id="pieChart"></canvas>
+                </div>
+            </div>
+        </div>
+        <div class="control-panel text-center mb-4">
+            <button id="start-btn" class="btn btn-success btn-lg">
+                <i class="fas fa-play"></i> Start IDS
+            </button>
+            <button id="stop-btn" class="btn btn-danger btn-lg">
+                <i class="fas fa-stop"></i> Stop IDS
+            </button>
+            <a href="/log" class="btn btn-info btn-lg">
+                <i class="fas fa-list-alt"></i> View Logs
+            </a>
+        </div>
+
+        <div id="status" class="alert-panel text-center mb-4"></div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+        const packetData = {{ packet_data | tojson }};
+        const attackData = {{ attack_data | tojson }};
+    </script>
+    <script src="{{ url_for('static', filename='js/dashboard.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/charts.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/ids-control.js') }}"></script>
+</body>
+</html>

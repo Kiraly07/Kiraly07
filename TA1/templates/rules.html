@@ -1,0 +1,103 @@
+<!-- filepath: e:\TA1\templates\rules.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IDS - Rules Management</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link href="{{ url_for('static', filename='css/styles.css') }}" rel="stylesheet">
+</head>
+<body class="bg-light">
+    <div class="container mt-4">
+        <h1 class="text-center logo mb-4">
+            <i class="fas fa-shield-alt"></i> IDS Rules
+        </h1>
+        
+        <nav class="nav-custom justify-content-center mb-4">
+            <a class="nav-link" href="/"><i class="fas fa-home"></i> Trang Chủ</a>
+            <a class="nav-link" href="/functionality"><i class="fas fa-cogs"></i> Chức năng</a>
+            <a class="nav-link active" href="/rules"><i class="fas fa-list"></i> Quy tắc</a>
+            <a class="nav-link" href="/log"><i class="fas fa-history"></i> Log</a>
+            <a class="nav-link text-danger" href="/logout">
+                <i class="fas fa-sign-out-alt"></i> Đăng xuất ({{ username }})
+            </a>
+        </nav>
+
+        <div class="dashboard-card">
+            <div class="d-flex justify-content-between align-items-center mb-4">
+                <div class="info-group">
+                    <i class="fas fa-calendar-alt info-icon"></i>
+                    <div>
+                        <small class="text-muted">Ngày:</small>
+                        <p class="mb-0">{{ current_date }}</p>
+                    </div>
+                </div>
+                <div>
+                    <a href="/rules/add" class="btn btn-primary me-2">
+                        <i class="fas fa-plus"></i> Thêm quy tắc mới
+                    </a>
+                    <form action="/update_rules" method="POST" style="display: inline;">
+                        <button type="submit" class="btn btn-secondary">
+                            <i class="fas fa-sync"></i> Cập nhật quy tắc
+                        </button>
+                    </form>
+                </div>
+            </div>
+
+            {% if error %}
+                <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                    <i class="fas fa-exclamation-triangle"></i> {{ error }}
+                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                </div>
+            {% endif %}
+
+            <div class="table-responsive">
+                <table class="table table-hover">
+                    <thead>
+                        <tr>
+                            <th><i class="fas fa-hashtag"></i>ID</th>
+                            <th><i class="fas fa-tag"></i>Name</th>
+                            <th><i class="fas fa-align-left"></i>Description</th>
+                            <th><i class="fas fa-exclamation-triangle"></i>Severity</th>
+                            <th><i class="fas fa-tools"></i>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for rule in rules %}
+                        <tr>
+                            <td>{{ rule.id }}</td>
+                            <td>{{ rule.name }}</td>
+                            <td>{{ rule.description }}</td>
+                            <td>
+                                <span class="badge {% if rule.severity == 'High' %}bg-danger
+                                      {% elif rule.severity == 'Medium' %}bg-warning
+                                      {% else %}bg-info{% endif %}">
+                                    {{ rule.severity }}
+                                </span>
+                            </td>
+                            <td>
+                                <div class="btn-group" role="group">
+                                    <a href="{{ url_for('edit_rule', rule_index=loop.index0) }}" 
+                                       class="btn btn-warning btn-sm">
+                                        <i class="fas fa-edit"></i> Edit
+                                    </a>
+                                    <a href="{{ url_for('delete_rule', rule_index=loop.index0) }}" 
+                                       class="btn btn-danger btn-sm"
+                                       onclick="return confirm('Are you sure you want to delete this rule?');">
+                                        <i class="fas fa-trash"></i> Delete
+                                    </a>
+                                </div>
+                            </td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

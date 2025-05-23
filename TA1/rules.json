@@ -1,0 +1,310 @@
+[
+    {
+        "id": "PS001",
+        "name": "Port Scan",
+        "description": "Detects when a single IP scans multiple ports on a target within a short time, indicating potential reconnaissance activity.",
+        "value": {
+            "threshold": 10,
+            "time_window_seconds": 5
+        },
+        "severity": "Medium",
+        "selected": true
+    },
+    {
+        "id": "DD001",
+        "name": "DDoS Attack",
+        "description": "Detects high traffic volume from multiple IPs targeting a single server, indicating a Distributed Denial of Service attack.",
+        "value": {
+            "threshold": 1000,
+            "time_window_seconds": 10
+        },
+        "severity": "Critical",
+        "selected": true
+    },
+    {
+        "id": "SQL001",
+        "name": "SQL Injection",
+        "description": "Detects malicious SQL queries in HTTP requests, indicating an attempt to exploit database vulnerabilities.",
+        "value": {
+            "patterns": [
+                "' OR '1'='1",
+                "UNION SELECT",
+                "DROP TABLE"
+            ]
+        },
+        "severity": "High",
+        "selected": true
+    },
+    {
+        "id": "XSS001",
+        "name": "Cross-Site Scripting",
+        "description": "Detect XSS attempts",
+        "value": {
+            "patterns": [
+                "alert\\(",
+                "<script>.*</script>",
+                "onerror=.*",
+                "javascript:.*"
+            ]
+        },
+        "severity": "Medium",
+        "selected": true
+    },
+    {
+        "id": "BF001",
+        "name": "Brute Force Attack",
+        "description": "Detects multiple failed login attempts from a single IP within a short time, indicating a brute force attack.",
+        "value": {
+            "threshold": 10,
+            "time_window_seconds": 60
+        },
+        "severity": "High",
+        "selected": true
+    },
+    {
+        "id": "MW001",
+        "name": "Malware Activity",
+        "description": "Detects known malware signatures in network traffic or file uploads.",
+        "value": {
+            "patterns": [
+                "malicious.exe",
+                "ransomware",
+                "trojan"
+            ]
+        },
+        "severity": "Critical",
+        "selected": true
+    },
+    {
+        "id": "PH001",
+        "name": "Phishing Attack",
+        "description": "Detects phishing attempts through suspicious URLs or email content.",
+        "value": {
+            "patterns": [
+                "http://fakebank.com",
+                "login.php",
+                "reset-password"
+            ]
+        },
+        "severity": "High",
+        "selected": true
+    },
+    {
+        "id": "MITM001",
+        "name": "Man-in-the-Middle (MITM)",
+        "description": "Detects ARP spoofing or suspicious packet interception activity.",
+        "value": {
+            "threshold": 50,
+            "time_window_seconds": 10
+        },
+        "severity": "Critical",
+        "selected": true
+    },
+    {
+        "id": "ZD001",
+        "name": "Zero-Day Exploit",
+        "description": "Detects exploitation of unknown vulnerabilities in software.",
+        "value": {
+            "patterns": [
+                "exploit_code",
+                "buffer_overflow",
+                "heap_spray"
+            ]
+        },
+        "severity": "Critical",
+        "selected": true
+    },
+    {
+        "id": "RW001",
+        "name": "Ransomware",
+        "description": "Detects file encryption patterns or known ransomware signatures.",
+        "value": {
+            "patterns": [
+                ".encrypted",
+                "decrypt_instructions.txt",
+                "ransomware"
+            ]
+        },
+        "severity": "Critical",
+        "selected": true
+    },
+    {
+        "id": "CS001",
+        "name": "Credential Stuffing",
+        "description": "Detects multiple login attempts using known leaked credentials.",
+        "value": {
+            "threshold": 20,
+            "time_window_seconds": 60
+        },
+        "severity": "High",
+        "selected": true
+    },
+    {
+        "id": "ICMP001",
+        "name": "ICMP Flood",
+        "description": "Detects high volume of ICMP packets, indicating a potential ICMP flood attack.",
+        "value": {
+            "threshold": 500,
+            "time_window_seconds": 10
+        },
+        "severity": "Medium",
+        "selected": true
+    },
+    {
+        "id": "ARP001",
+        "name": "ARP Spoofing",
+        "description": "Detects suspicious ARP replies that may indicate ARP spoofing.",
+        "value": {
+            "patterns": [
+                "duplicate_mac",
+                "unexpected_arp_reply"
+            ]
+        },
+        "severity": "High",
+        "selected": true
+    },
+    {
+        "id": "PS002",
+        "name": "Port Scan",
+        "description": "Detects rapid SYN packets to multiple ports from a single IP, indicating a stealthy port scan.",
+        "value": {
+            "threshold": 15,
+            "time_window_seconds": 3,
+            "patterns": [
+                "SYN"
+            ]
+        },
+        "severity": "Medium",
+        "selected": true
+    },
+    {
+        "id": "DOS001",
+        "name": "DoS",
+        "description": "Detects a high volume of packets from a single IP to overwhelm a target, indicating a Denial of Service attack.",
+        "value": {
+            "threshold": 100,
+            "time_window_seconds": 5
+        },
+        "severity": "High",
+        "selected": true
+    },
+    {
+        "id": "FTP001",
+        "name": "FTP Brute Force",
+        "description": "Detects multiple failed FTP login attempts from a single IP within a short time.",
+        "value": {
+            "threshold": 15,
+            "time_window_seconds": 60
+        },
+        "severity": "Medium",
+        "selected": true
+    },
+    {
+        "id": "SMTP001",
+        "name": "SMTP Relay Attack",
+        "description": "Detects unauthorized SMTP relay attempts.",
+        "value": {
+            "patterns": [
+                "MAIL FROM:<.*>",
+                "RCPT TO:<.*>",
+                "550 Relay not permitted"
+            ]
+        },
+        "severity": "Medium",
+        "selected": true
+    },
+    {
+        "id": "DNS001",
+        "name": "DNS Amplification Attack",
+        "description": "Detects high volume of DNS responses from a single source, indicating a potential amplification attack.",
+        "value": {
+            "threshold": 1000,
+            "time_window_seconds": 10
+        },
+        "severity": "High",
+        "selected": true
+    },
+    {
+        "id": "SSH001",
+        "name": "SSH Brute Force",
+        "description": "Detects multiple failed SSH login attempts from a single IP within a short time.",
+        "value": {
+            "threshold": 10,
+            "time_window_seconds": 60
+        },
+        "severity": "High",
+        "selected": true
+    },
+    {
+        "id": "TELNET001",
+        "name": "Telnet Brute Force",
+        "description": "Detects multiple failed Telnet login attempts from a single IP within a short time.",
+        "value": {
+            "threshold": 10,
+            "time_window_seconds": 60
+        },
+        "severity": "Medium",
+        "selected": true
+    },
+    {
+        "id": "HTTP002",
+        "name": "HTTP Slowloris Attack",
+        "description": "Detects incomplete HTTP requests that may indicate a Slowloris attack.",
+        "value": {
+            "patterns": [
+                "Content-Length:.*",
+                "Connection: keep-alive",
+                "incomplete_request"
+            ]
+        },
+        "severity": "Medium",
+        "selected": true
+    },
+    {
+        "id": "ICMP002",
+        "name": "ICMP Ping of Death",
+        "description": "Detects oversized ICMP packets that may indicate a Ping of Death attack.",
+        "value": {
+            "threshold": 1,
+            "packet_size_bytes": 65535
+        },
+        "severity": "High",
+        "selected": true
+    },
+    {
+        "id": "LDAP001",
+        "name": "LDAP Injection",
+        "description": "Detects malicious LDAP queries in network traffic.",
+        "value": {
+            "patterns": [
+                "(&(objectClass=*))",
+                "(|(userPassword=*))",
+                "(!userPassword=*)"
+            ]
+        },
+        "severity": "High",
+        "selected": true
+    },
+    {
+        "id": "SNMP001",
+        "name": "SNMP Brute Force",
+        "description": "Detects multiple failed SNMP authentication attempts from a single IP.",
+        "value": {
+            "threshold": 20,
+            "time_window_seconds": 60
+        },
+        "severity": "Medium",
+        "selected": true
+    },
+    {
+        "id": "RDP001",
+        "name": "RDP Brute Force",
+        "description": "Detects multiple failed RDP login attempts from a single IP within a short time.",
+        "value": {
+            "threshold": 10,
+            "time_window_seconds": 60
+        },
+        "severity": "High",
+        "selected": true
+    }
+]

@@ -1,0 +1,593 @@
+[2025-04-28 22:46:15] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 2019 (Threshold: 100)
+[2025-04-28 22:46:21] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 3850 (Threshold: 100)
+[2025-04-28 22:46:27] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 3928 (Threshold: 100)
+[2025-04-28 22:46:33] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 4004 (Threshold: 100)
+[2025-04-28 22:46:39] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 2583 (Threshold: 100)
+[2025-04-28 22:46:45] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 3165 (Threshold: 100)
+[2025-04-28 22:46:51] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 3561 (Threshold: 100)
+[2025-04-28 22:46:57] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 2540 (Threshold: 100)
+[2025-04-28 22:47:03] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 2748 (Threshold: 100)
+[2025-04-28 22:47:09] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 3831 (Threshold: 100)
+[2025-04-28 22:47:15] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 2054 (Threshold: 100)
+[2025-04-28 22:47:21] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 3020 (Threshold: 100)
+[2025-04-28 22:47:27] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 2614 (Threshold: 100)
+[2025-04-28 22:47:32] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 4067 (Threshold: 100)
+[2025-04-28 22:47:38] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 3046 (Threshold: 100)
+[2025-04-28 22:47:45] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 1949 (Threshold: 100)
+[2025-04-28 22:47:50] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 2411 (Threshold: 100)
+[2025-04-28 22:47:56] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 2816 (Threshold: 100)
+[2025-04-28 22:55:43] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 2213 (Threshold: 100)
+[2025-04-28 22:55:49] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 2210 (Threshold: 100)
+[2025-04-28 22:55:55] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 2173 (Threshold: 100)
+[2025-04-28 22:56:01] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 2736 (Threshold: 100)
+[2025-04-28 22:56:07] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 3221 (Threshold: 100)
+[2025-04-28 22:56:13] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 4403 (Threshold: 100)
+[2025-04-28 22:56:19] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 3464 (Threshold: 100)
+[2025-04-28 22:56:25] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 2519 (Threshold: 100)
+[2025-04-28 22:56:31] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 2840 (Threshold: 100)
+[2025-04-28 22:56:37] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 1876 (Threshold: 100)
+[2025-04-28 22:56:43] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 2533 (Threshold: 100)
+[2025-04-28 22:56:49] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 2534 (Threshold: 100)
+[2025-04-28 22:56:55] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 1973 (Threshold: 100)
+[2025-04-28 22:57:01] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 2114 (Threshold: 100)
+[2025-04-28 22:57:06] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 1994 (Threshold: 100)
+[2025-04-28 22:57:12] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 2306 (Threshold: 100)
+[2025-04-28 22:57:18] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 3178 (Threshold: 100)
+[2025-04-28 22:57:24] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 3073 (Threshold: 100)
+[2025-04-28 22:57:55] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 2329 (Threshold: 100)
+[2025-04-28 22:58:01] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 3123 (Threshold: 100)
+[2025-04-28 22:58:07] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 1927 (Threshold: 100)
+[2025-04-28 22:58:13] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 1909 (Threshold: 100)
+[2025-04-28 22:58:19] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 2389 (Threshold: 100)
+[2025-04-28 22:58:47] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 2030 (Threshold: 100)
+[2025-04-28 22:58:54] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 2608 (Threshold: 100)
+[2025-04-28 22:59:00] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 2275 (Threshold: 100)
+[2025-04-28 22:59:06] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 2888 (Threshold: 100)
+[2025-04-28 22:59:12] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 2628 (Threshold: 100)
+[2025-04-28 22:59:18] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 2108 (Threshold: 100)
+[2025-04-28 22:59:24] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 2048 (Threshold: 100)
+[2025-04-28 22:59:30] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 2223 (Threshold: 100)
+[2025-04-28 22:59:36] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 2117 (Threshold: 100)
+[2025-04-28 22:59:42] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 2425 (Threshold: 100)
+[2025-04-28 22:59:48] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 1699 (Threshold: 100)
+[2025-04-28 22:59:55] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 2182 (Threshold: 100)
+[2025-04-28 23:00:01] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 2375 (Threshold: 100)
+[2025-04-28 23:00:07] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 2185 (Threshold: 100)
+[2025-04-28 23:00:13] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 2129 (Threshold: 100)
+[2025-04-28 23:00:20] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 1947 (Threshold: 100)
+[2025-04-28 23:00:26] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 1652 (Threshold: 100)
+[2025-04-28 23:00:32] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 1710 (Threshold: 100)
+[2025-04-28 23:06:42] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 4065 (Threshold: 100)
+[2025-04-28 23:06:48] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 4125 (Threshold: 100)
+[2025-04-28 23:06:54] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 3005 (Threshold: 100)
+[2025-04-28 23:07:00] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 2617 (Threshold: 100)
+[2025-04-28 23:07:06] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 2414 (Threshold: 100)
+[2025-04-28 23:07:12] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 2636 (Threshold: 100)
+[2025-04-28 23:07:18] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 5961 (Threshold: 100)
+[2025-04-28 23:42:12] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 4045 (Threshold: 100)
+[2025-04-28 23:42:18] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 3141 (Threshold: 100)
+[2025-04-28 23:42:24] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 3665 (Threshold: 100)
+[2025-04-28 23:42:30] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 2679 (Threshold: 100)
+[2025-04-28 23:42:36] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 2445 (Threshold: 100)
+[2025-04-28 23:42:42] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 2598 (Threshold: 100)
+[2025-04-28 23:42:48] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 2627 (Threshold: 100)
+[2025-04-28 23:42:54] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 2528 (Threshold: 100)
+[2025-04-28 23:43:00] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 2399 (Threshold: 100)
+[2025-04-28 23:43:06] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 2345 (Threshold: 100)
+[2025-04-28 23:43:12] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 3031 (Threshold: 100)
+[2025-04-28 23:43:18] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 2476 (Threshold: 100)
+[2025-04-28 23:43:24] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 2632 (Threshold: 100)
+[2025-04-28 23:43:30] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 2779 (Threshold: 100)
+[2025-04-28 23:43:35] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 2954 (Threshold: 100)
+[2025-04-28 23:43:41] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 1912 (Threshold: 100)
+[2025-04-28 23:43:47] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 3127 (Threshold: 100)
+[2025-04-28 23:43:53] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 3886 (Threshold: 100)
+[2025-04-29 13:47:24] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.1 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-04-29 13:49:02] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-04-29 13:50:13] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 8315 (Threshold: 100)
+[2025-04-29 13:50:19] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 9279 (Threshold: 100)
+[2025-04-29 13:50:25] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 8944 (Threshold: 100)
+[2025-04-29 13:50:30] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7098 (Threshold: 100)
+[2025-04-29 13:50:36] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7993 (Threshold: 100)
+[2025-04-29 13:50:42] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 8987 (Threshold: 100)
+[2025-04-29 13:50:48] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7806 (Threshold: 100)
+[2025-04-29 13:50:54] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 8266 (Threshold: 100)
+[2025-04-29 13:51:00] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 8721 (Threshold: 100)
+[2025-04-29 13:51:06] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 9006 (Threshold: 100)
+[2025-04-29 13:51:12] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 9396 (Threshold: 100)
+[2025-04-29 13:51:18] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7340 (Threshold: 100)
+[2025-04-29 13:51:23] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7391 (Threshold: 100)
+[2025-04-29 13:51:30] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 8009 (Threshold: 100)
+[2025-04-29 13:51:35] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 6943 (Threshold: 100)
+[2025-04-29 13:54:17] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 9449 (Threshold: 100)
+[2025-04-29 13:54:23] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7936 (Threshold: 100)
+[2025-04-29 13:54:29] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7400 (Threshold: 100)
+[2025-04-29 13:54:35] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 5887 (Threshold: 100)
+[2025-04-29 13:54:41] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 5918 (Threshold: 100)
+[2025-04-29 13:54:47] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 6227 (Threshold: 100)
+[2025-04-29 13:54:53] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7104 (Threshold: 100)
+[2025-04-29 13:54:59] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 5817 (Threshold: 100)
+[2025-04-29 13:55:05] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 5575 (Threshold: 100)
+[2025-04-29 13:55:11] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 6704 (Threshold: 100)
+[2025-04-29 13:55:17] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7926 (Threshold: 100)
+[2025-04-29 13:55:23] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 4387 (Threshold: 100)
+[2025-04-29 13:55:29] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 5651 (Threshold: 100)
+[2025-04-29 13:55:34] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 9560 (Threshold: 100)
+[2025-04-29 13:55:40] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 9599 (Threshold: 100)
+[2025-04-29 13:55:46] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 10456 (Threshold: 100)
+[2025-04-29 13:55:52] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 9487 (Threshold: 100)
+[2025-04-29 13:55:58] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 10221 (Threshold: 100)
+[2025-04-29 14:01:15] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 6934 (Threshold: 100)
+[2025-04-29 14:01:21] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7869 (Threshold: 100)
+[2025-04-29 14:01:27] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 6943 (Threshold: 100)
+[2025-04-29 14:01:33] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 10468 (Threshold: 100)
+[2025-04-29 14:01:39] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 10213 (Threshold: 100)
+[2025-04-29 14:01:44] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 10653 (Threshold: 100)
+[2025-04-29 14:01:50] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 8731 (Threshold: 100)
+[2025-04-29 14:01:56] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7722 (Threshold: 100)
+[2025-04-29 14:02:02] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7792 (Threshold: 100)
+[2025-04-29 14:02:08] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7780 (Threshold: 100)
+[2025-04-29 14:02:14] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7096 (Threshold: 100)
+[2025-04-29 14:02:20] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 8764 (Threshold: 100)
+[2025-04-29 14:02:25] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 8420 (Threshold: 100)
+[2025-04-29 14:02:31] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7610 (Threshold: 100)
+[2025-04-29 14:02:37] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7588 (Threshold: 100)
+[2025-04-29 14:02:43] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7324 (Threshold: 100)
+[2025-04-29 14:02:49] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7635 (Threshold: 100)
+[2025-04-29 14:02:55] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 8969 (Threshold: 100)
+[2025-04-29 14:06:15] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 8209 (Threshold: 100)
+[2025-04-29 14:06:21] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7818 (Threshold: 100)
+[2025-04-29 14:06:26] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 9406 (Threshold: 100)
+[2025-04-29 14:06:32] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 11732 (Threshold: 100)
+[2025-04-29 14:06:38] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 10191 (Threshold: 100)
+[2025-04-29 14:06:44] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 10479 (Threshold: 100)
+[2025-04-29 14:06:50] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 9628 (Threshold: 100)
+[2025-04-29 14:06:56] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 8083 (Threshold: 100)
+[2025-04-29 14:07:02] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 9031 (Threshold: 100)
+[2025-04-29 14:07:08] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7254 (Threshold: 100)
+[2025-04-29 14:07:13] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 5459 (Threshold: 100)
+[2025-04-29 14:07:19] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 6996 (Threshold: 100)
+[2025-04-29 14:07:25] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7273 (Threshold: 100)
+[2025-04-29 14:07:31] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7543 (Threshold: 100)
+[2025-04-29 14:07:37] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7381 (Threshold: 100)
+[2025-04-29 14:07:43] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 6377 (Threshold: 100)
+[2025-04-29 14:07:49] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 6098 (Threshold: 100)
+[2025-04-29 14:07:55] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 5816 (Threshold: 100)
+[2025-04-29 14:14:27] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 9281 (Threshold: 100)
+[2025-04-29 14:14:33] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 10812 (Threshold: 100)
+[2025-04-29 14:14:39] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 9779 (Threshold: 100)
+[2025-04-29 14:14:45] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 9435 (Threshold: 100)
+[2025-04-29 14:14:50] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 11373 (Threshold: 100)
+[2025-04-29 14:14:57] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7409 (Threshold: 100)
+[2025-04-29 14:15:02] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7517 (Threshold: 100)
+[2025-04-29 14:15:08] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7311 (Threshold: 100)
+[2025-04-29 14:15:14] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7433 (Threshold: 100)
+[2025-04-29 14:15:20] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 8176 (Threshold: 100)
+[2025-04-29 14:15:26] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 6893 (Threshold: 100)
+[2025-04-29 14:15:32] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 6842 (Threshold: 100)
+[2025-04-29 14:15:37] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7703 (Threshold: 100)
+[2025-04-29 14:15:44] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7801 (Threshold: 100)
+[2025-04-29 14:15:50] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 8085 (Threshold: 100)
+[2025-04-29 14:15:55] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 8250 (Threshold: 100)
+[2025-04-29 14:16:02] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 11374 (Threshold: 100)
+[2025-04-29 14:16:07] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 8997 (Threshold: 100)
+[2025-04-29 14:19:10] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7349 (Threshold: 100)
+[2025-04-29 14:19:16] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 8528 (Threshold: 100)
+[2025-04-29 14:19:22] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 9349 (Threshold: 100)
+[2025-04-29 14:19:28] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 10621 (Threshold: 100)
+[2025-04-29 14:19:34] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 9782 (Threshold: 100)
+[2025-04-29 14:19:40] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 9987 (Threshold: 100)
+[2025-04-29 14:19:45] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 10068 (Threshold: 100)
+[2025-04-29 14:19:51] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7916 (Threshold: 100)
+[2025-04-29 14:19:57] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 6887 (Threshold: 100)
+[2025-04-29 14:20:03] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7229 (Threshold: 100)
+[2025-04-29 14:20:09] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7852 (Threshold: 100)
+[2025-04-29 14:20:15] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7877 (Threshold: 100)
+[2025-04-29 14:20:21] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 5735 (Threshold: 100)
+[2025-04-29 14:20:27] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 8847 (Threshold: 100)
+[2025-04-29 14:20:32] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7896 (Threshold: 100)
+[2025-04-29 14:20:38] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 8003 (Threshold: 100)
+[2025-04-29 14:20:44] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 9151 (Threshold: 100)
+[2025-04-29 14:20:50] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7174 (Threshold: 100)
+[2025-04-29 14:32:37] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 9353 (Threshold: 100)
+[2025-04-29 14:32:43] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 10576 (Threshold: 100)
+[2025-04-29 14:32:49] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 9496 (Threshold: 100)
+[2025-04-29 14:32:55] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 11065 (Threshold: 100)
+[2025-04-29 14:33:01] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 10893 (Threshold: 100)
+[2025-04-29 14:33:06] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 9685 (Threshold: 100)
+[2025-04-29 14:33:12] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 8282 (Threshold: 100)
+[2025-04-29 14:33:18] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7681 (Threshold: 100)
+[2025-04-29 14:33:24] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7009 (Threshold: 100)
+[2025-04-29 14:33:30] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7096 (Threshold: 100)
+[2025-04-29 14:33:35] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7387 (Threshold: 100)
+[2025-04-29 14:33:41] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.1 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-04-29 14:33:41] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7694 (Threshold: 100)
+[2025-04-29 14:33:47] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7691 (Threshold: 100)
+[2025-04-29 14:33:53] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 8236 (Threshold: 100)
+[2025-04-29 14:33:59] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 8974 (Threshold: 100)
+[2025-04-29 14:34:05] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 5703 (Threshold: 100)
+[2025-04-29 15:18:42] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.1 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-04-29 15:19:44] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.1 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-04-29 15:20:46] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.1 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-04-29 15:20:48] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.1 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-04-29 15:20:50] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.1 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-04-29 15:20:55] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.1 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-04-29 15:24:52] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.1 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-04-29 15:29:58] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.1 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-04-29 15:35:07] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.1 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-04-29 15:35:46] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.1 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-04-29 15:39:33] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 8812 (Threshold: 100)
+[2025-04-29 15:39:39] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 8655 (Threshold: 100)
+[2025-04-29 15:39:45] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 8931 (Threshold: 100)
+[2025-04-29 15:39:50] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 10325 (Threshold: 100)
+[2025-04-29 15:39:56] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 10170 (Threshold: 100)
+[2025-04-29 15:40:02] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 9483 (Threshold: 100)
+[2025-04-29 15:40:08] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 8217 (Threshold: 100)
+[2025-04-29 15:40:14] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 10882 (Threshold: 100)
+[2025-04-29 15:40:20] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 9785 (Threshold: 100)
+[2025-04-29 15:40:26] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 10002 (Threshold: 100)
+[2025-04-29 15:40:32] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 10812 (Threshold: 100)
+[2025-04-29 15:40:38] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 10745 (Threshold: 100)
+[2025-04-29 15:40:44] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 11641 (Threshold: 100)
+[2025-04-29 15:40:49] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 11248 (Threshold: 100)
+[2025-04-29 15:40:55] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 10584 (Threshold: 100)
+[2025-04-29 15:41:02] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 9878 (Threshold: 100)
+[2025-04-29 15:41:08] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 10041 (Threshold: 100)
+[2025-04-29 15:41:14] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 11333 (Threshold: 100)
+[2025-04-29 15:46:38] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 10843 (Threshold: 100)
+[2025-04-29 15:46:44] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 10968 (Threshold: 100)
+[2025-04-29 15:46:50] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 10809 (Threshold: 100)
+[2025-04-29 15:46:56] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 8574 (Threshold: 100)
+[2025-04-29 15:47:02] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7915 (Threshold: 100)
+[2025-04-29 15:47:08] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 6948 (Threshold: 100)
+[2025-04-29 15:47:14] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7360 (Threshold: 100)
+[2025-04-29 15:47:20] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7393 (Threshold: 100)
+[2025-04-29 15:47:26] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 6242 (Threshold: 100)
+[2025-04-29 15:49:14] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 6876 (Threshold: 100)
+[2025-04-29 15:49:20] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7439 (Threshold: 100)
+[2025-04-29 15:49:26] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7009 (Threshold: 100)
+[2025-04-29 15:49:31] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7001 (Threshold: 100)
+[2025-04-29 15:49:37] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7167 (Threshold: 100)
+[2025-04-29 15:49:43] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 6866 (Threshold: 100)
+[2025-04-29 15:49:49] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7394 (Threshold: 100)
+[2025-04-29 15:49:55] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7819 (Threshold: 100)
+[2025-04-29 15:50:01] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7459 (Threshold: 100)
+[2025-04-29 15:50:06] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7378 (Threshold: 100)
+[2025-04-29 15:50:12] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7653 (Threshold: 100)
+[2025-04-29 15:50:18] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 6677 (Threshold: 100)
+[2025-04-29 15:50:24] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7579 (Threshold: 100)
+[2025-04-29 15:50:30] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7224 (Threshold: 100)
+[2025-04-29 15:50:36] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7973 (Threshold: 100)
+[2025-04-29 15:50:42] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7715 (Threshold: 100)
+[2025-04-29 15:50:47] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7071 (Threshold: 100)
+[2025-04-29 15:50:53] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 6996 (Threshold: 100)
+[2025-04-29 15:53:24] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 9388 (Threshold: 100)
+[2025-04-29 15:53:30] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 9277 (Threshold: 100)
+[2025-04-29 15:53:36] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7060 (Threshold: 100)
+[2025-04-29 15:53:42] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7710 (Threshold: 100)
+[2025-04-29 15:53:48] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 6681 (Threshold: 100)
+[2025-04-29 15:53:54] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 7892 (Threshold: 100)
+[2025-04-29 15:54:00] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 9019 (Threshold: 100)
+[2025-04-29 16:21:38] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 10545 (Threshold: 100)
+[2025-04-29 16:21:44] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 9392 (Threshold: 100)
+[2025-04-29 16:21:50] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 9353 (Threshold: 100)
+[2025-04-29 16:21:56] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 10816 (Threshold: 100)
+[2025-04-29 16:22:02] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 10812 (Threshold: 100)
+[2025-04-29 16:22:08] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 10069 (Threshold: 100)
+[2025-04-29 16:22:13] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 10331 (Threshold: 100)
+[2025-04-29 16:22:20] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 11796 (Threshold: 100)
+[2025-04-29 16:22:25] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 11918 (Threshold: 100)
+[2025-04-29 16:22:32] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 12044 (Threshold: 100)
+[2025-04-29 16:22:37] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 11791 (Threshold: 100)
+[2025-04-29 16:22:43] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 12076 (Threshold: 100)
+[2025-04-29 16:22:49] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 11421 (Threshold: 100)
+[2025-04-29 16:22:55] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 10393 (Threshold: 100)
+[2025-04-29 16:23:01] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 10705 (Threshold: 100)
+[2025-04-29 16:23:07] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 11517 (Threshold: 100)
+[2025-04-29 16:23:13] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 10175 (Threshold: 100)
+[2025-04-29 16:23:19] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 11442 (Threshold: 100)
+[2025-04-29 16:28:30] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 8981 (Threshold: 100)
+[2025-04-29 16:28:36] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 10296 (Threshold: 100)
+[2025-04-29 16:28:42] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 11135 (Threshold: 100)
+[2025-04-29 16:28:48] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 10011 (Threshold: 100)
+[2025-04-29 16:28:54] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 11731 (Threshold: 100)
+[2025-04-29 16:29:00] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 11467 (Threshold: 100)
+[2025-04-29 16:29:05] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 11870 (Threshold: 100)
+[2025-04-29 16:29:12] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 11989 (Threshold: 100)
+[2025-04-29 16:29:18] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 12493 (Threshold: 100)
+[2025-04-29 16:29:23] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 12387 (Threshold: 100)
+[2025-04-29 16:29:30] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 12307 (Threshold: 100)
+[2025-04-29 16:29:36] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 12201 (Threshold: 100)
+[2025-04-29 16:29:43] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 12452 (Threshold: 100)
+[2025-04-29 16:29:49] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 12110 (Threshold: 100)
+[2025-04-29 16:29:55] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 12238 (Threshold: 100)
+[2025-04-29 16:30:00] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 11957 (Threshold: 100)
+[2025-04-29 16:30:07] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 11419 (Threshold: 100)
+[2025-04-29 16:30:13] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 10268 (Threshold: 100)
+[2025-05-05 14:24:37] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 4838 (Threshold: 100)
+[2025-05-05 14:24:44] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 5561 (Threshold: 100)
+[2025-05-05 14:24:50] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 4918 (Threshold: 100)
+[2025-05-05 14:24:56] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 5358 (Threshold: 100)
+[2025-05-05 14:25:02] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 4434 (Threshold: 100)
+[2025-05-05 14:25:08] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 4351 (Threshold: 100)
+[2025-05-05 14:25:15] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 3786 (Threshold: 100)
+[2025-05-05 14:25:21] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 1619 (Threshold: 100)
+[2025-05-05 14:25:27] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 3251 (Threshold: 100)
+[2025-05-05 14:25:33] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 3552 (Threshold: 100)
+[2025-05-05 14:25:39] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 4020 (Threshold: 100)
+[2025-05-05 14:25:46] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 2838 (Threshold: 100)
+[2025-05-05 14:25:52] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 3854 (Threshold: 100)
+[2025-05-05 14:25:58] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 6422 (Threshold: 100)
+[2025-05-05 14:26:04] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 5625 (Threshold: 100)
+[2025-05-05 14:26:10] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 5911 (Threshold: 100)
+[2025-05-05 14:26:16] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 6040 (Threshold: 100)
+[2025-05-05 14:26:23] [ALERT] Rule DOS001 (DoS) detected from 192.168.93.128 | Severity: High | Details: Packet count: 6424 (Threshold: 100)
+[2025-05-05 14:32:52] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-05 14:32:54] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-05 14:32:56] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-05 14:32:58] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-05 14:33:00] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-05 14:33:02] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-05 14:33:04] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-05 14:33:06] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-05 14:33:08] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-05 14:33:10] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-05 14:33:12] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-05 14:33:14] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-05 14:33:16] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-05 14:37:56] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-05 14:37:58] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-05 14:38:00] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-05 14:38:04] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-05 14:38:06] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-05 14:38:08] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-05 14:38:10] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-05 14:38:12] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-05 14:38:14] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-05 14:38:17] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-05 14:38:19] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-05 14:38:21] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-05 14:38:23] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-05 14:57:21] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.1 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-05 14:59:28] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.1 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-05 15:12:21] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.1 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-05 15:14:28] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.1 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-05 15:29:29] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.1 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-05 15:42:22] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.1 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-05 15:44:29] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.1 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-05 15:57:22] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.1 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-05 15:59:29] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.1 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-05 16:12:21] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.1 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:04:42] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:04:43] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:04:44] [ALERT] Rule LDAP001 (LDAP Injection) detected from 34.36.137.203 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:04:46] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:04:49] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:04:52] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:04:55] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:04:58] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:05:01] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:05:04] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:05:07] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:05:10] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:05:11] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:05:13] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:05:15] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:05:18] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:05:21] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:05:24] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:05:27] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:05:30] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:05:33] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:05:35] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:05:37] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:05:40] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:05:43] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:05:47] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:05:50] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:05:53] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:05:57] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:06:00] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:06:03] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:06:06] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:06:09] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:06:12] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:06:15] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:06:18] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:06:21] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:06:24] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:06:29] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:06:32] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:06:36] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:06:39] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:06:42] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:06:45] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:06:48] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:06:51] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:06:54] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:06:54] [ALERT] Rule LDAP001 (LDAP Injection) detected from 34.107.243.93 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:06:54] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:06:54] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:06:55] [ALERT] Rule LDAP001 (LDAP Injection) detected from 34.149.100.209 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:06:55] [ALERT] Rule LDAP001 (LDAP Injection) detected from 34.149.100.209 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:06:55] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:06:58] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:07:02] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:07:05] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:07:08] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:07:11] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:07:14] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:07:17] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:07:21] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:07:24] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:07:33] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:07:36] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:07:39] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:07:42] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:08:33] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:08:36] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:08:39] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:08:42] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:08:46] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:08:49] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:08:52] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:08:55] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:08:58] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:09:01] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:09:02] [ALERT] Rule LDAP001 (LDAP Injection) detected from 34.107.243.93 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:09:03] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:09:06] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:09:09] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:09:12] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:09:15] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:09:18] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:09:21] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:09:24] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:09:28] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:09:31] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:09:34] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:09:37] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:09:40] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:09:41] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:09:44] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:09:45] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:09:47] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:09:49] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:09:52] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:09:55] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:10:02] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:10:05] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:10:09] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:10:12] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:10:15] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:10:18] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:10:21] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:10:24] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:10:27] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:10:30] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:10:33] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:10:36] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:10:39] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:10:42] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:10:45] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:10:48] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:10:52] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:10:55] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:10:58] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:11:01] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:11:04] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:11:07] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:11:08] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:11:11] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:11:14] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:11:17] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:11:20] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:11:23] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:11:26] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:11:29] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:11:30] [ALERT] Rule LDAP001 (LDAP Injection) detected from 34.107.243.93 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:11:30] [ALERT] Rule LDAP001 (LDAP Injection) detected from 34.107.243.93 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:11:30] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:11:30] [ALERT] Rule LDAP001 (LDAP Injection) detected from 34.107.243.93 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:11:30] [ALERT] Rule LDAP001 (LDAP Injection) detected from 34.149.100.209 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:11:30] [ALERT] Rule LDAP001 (LDAP Injection) detected from 34.149.100.209 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:11:32] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:11:36] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:11:39] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:11:42] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:11:45] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:11:48] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:11:51] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:11:54] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:11:57] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:12:00] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:12:03] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:12:06] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:12:09] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:12:12] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:12:15] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:12:19] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:12:22] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:12:25] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:12:28] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:12:30] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:12:31] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:12:34] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:12:41] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:12:44] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:12:47] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:12:50] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:12:53] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:12:56] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:13:00] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:13:03] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:13:06] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:13:58] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:14:01] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:14:04] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:14:07] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:14:10] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:14:13] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:14:16] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:14:17] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:14:20] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:14:21] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:14:22] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:14:25] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.1 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:14:26] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:14:29] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:14:32] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:14:35] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:14:38] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:14:41] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:14:44] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:14:47] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:14:50] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:14:53] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:16:17] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:16:20] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:16:23] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:16:26] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:16:29] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:16:33] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:16:36] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:16:39] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:16:42] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:16:45] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:16:48] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:16:51] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:16:54] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:16:57] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:17:00] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:17:03] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:17:04] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:17:04] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:17:07] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:17:10] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:17:14] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:17:17] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:17:20] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:17:23] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:17:26] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:17:29] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:17:32] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:17:35] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:17:38] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:17:41] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:17:44] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:17:47] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:17:48] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:17:51] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:17:54] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:17:59] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:18:00] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:18:03] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:18:03] [ALERT] Rule LDAP001 (LDAP Injection) detected from 34.107.243.93 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:18:06] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:18:13] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:18:15] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:18:17] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:18:19] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:18:21] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:18:23] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.
+[2025-05-23 23:18:25] [ALERT] Rule LDAP001 (LDAP Injection) detected from 192.168.93.128 | Severity: High | Details: LDAP Injection pattern '(|(userPassword=*))' detected in payload.

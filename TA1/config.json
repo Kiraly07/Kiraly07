@@ -1,0 +1,31 @@
+{
+    "ids_config": {
+      "version": "1.0",
+      "last_updated": "2025-04-14",
+      "network_interfaces": [
+        {
+          "interface_name": "\\Device\\NPF_{BCC4F26B-9AD2-45A7-BC2B-58DEF89CE188}",
+          "description": "Nat"
+        }
+      ],
+      "admin_accounts": [
+        {
+          "username": "root",
+          "password_hash": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+          "hash_type": "SHA-256",
+          "description": "Tài khoản quản trị chính"
+        }
+      ],
+      "token_telegram": {
+        "TELEGRAM_BOT_TOKEN": "7289989188:AAGZL0knDcE5Q5l9KaR5J4GfilIWpYY_zcA",
+        "TELEGRAM_CHAT_ID": "7611587405",
+	"description": "Cấu hình Telegram cho thông báo và tương tác"
+      },
+      "alerting": {
+        "telegram_alerts": {
+          "enabled": true,
+          "description": "Bật hoặc tắt thông báo Telegram"
+        }
+      }
+    }
+}

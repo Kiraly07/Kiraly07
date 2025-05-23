@@ -1,0 +1,385 @@
+body {
+    background: linear-gradient(to right, #f4f7fc, #e8f0fe);
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h3 {
+    color: #007bff;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+form {
+    background: #ffffff;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+}
+
+.logo {
+    font-size: 36px;
+    font-weight: bold;
+    color: #007bff;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.login-title {
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #333;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.login-form {
+    background: #ffffff;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.form-label {
+    font-weight: bold;
+    color: #555;
+    margin-bottom: 5px;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+    font-weight: bold;
+    text-transform: uppercase;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    transform: scale(1.05);
+}
+
+input.form-control {
+    border: 2px solid #007bff;
+    border-radius: 8px;
+    padding: 10px;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+input.form-control:focus {
+    border-color: #0056b3;
+    box-shadow: 0 0 5px rgba(0, 86, 179, 0.5);
+}
+
+.nav-link {
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #00aaff;
+    margin: 0 5px;
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.nav-link:hover {
+    background-color: #0088cc;
+    transform: scale(1.1);
+}
+
+canvas {
+    background: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    text-align: center;
+    padding: 15px;
+    background-color: #007bff;
+    color: #ffffff;
+    font-size: 14px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Dashboard Styles */
+.nav-custom {
+    background: white;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    margin-bottom: 30px;
+}
+
+.nav-custom .nav-link {
+    padding: 8px 20px;
+    margin: 0 5px;
+    border-radius: 25px;
+    color: #666;
+    transition: all 0.3s ease;
+}
+
+.nav-custom .nav-link:hover,
+.nav-custom .nav-link.active {
+    background: #007bff;
+    color: white;
+}
+
+/* Card Styles */
+.dashboard-card {
+    background: white;
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+}
+
+.dashboard-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+    color: #2c3e50;
+    font-weight: 600;
+    margin-bottom: 20px;
+    padding-bottom: 15px;
+    border-bottom: 2px solid #f8f9fa;
+}
+
+.card-title i {
+    color: #3498db;
+    margin-right: 10px;
+}
+
+/* Form Controls */
+.custom-input {
+    border: 2px solid #e9ecef;
+    border-radius: 10px;
+    padding: 12px;
+    transition: all 0.3s ease;
+}
+
+.custom-input:focus {
+    border-color: #3498db;
+    box-shadow: 0 0 0 0.25rem rgba(52, 152, 219, 0.25);
+}
+
+/* Custom Checkboxes */
+.custom-check {
+    padding: 10px;
+    border-radius: 8px;
+    transition: background-color 0.3s;
+}
+
+.custom-check:hover {
+    background-color: rgba(0, 170, 255, 0.1);
+}
+
+.custom-check .form-check-input:checked ~ .form-check-label {
+    color: #00aaff;
+}
+
+.custom-check small {
+    font-size: 0.8em;
+    margin-left: 1.8rem;
+}
+
+.dashboard-card {
+    background: white;
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+}
+
+/* Buttons */
+.btn {
+    padding: 12px 25px;
+    border-radius: 10px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    transition: all 0.3s ease;
+}
+
+.btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.btn i {
+    margin-right: 8px;
+}
+
+/* Table Styles */
+.table {
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.table thead {
+    background-color: #3498db;
+    color: white;
+}
+
+.table thead th {
+    border: none;
+    padding: 15px;
+    font-weight: 500;
+}
+
+.table tbody tr {
+    transition: all 0.3s ease;
+}
+
+.table tbody tr:hover {
+    background-color: rgba(52, 152, 219, 0.1);
+}
+
+.table td {
+    vertical-align: middle;
+    padding: 12px;
+}
+
+/* Badge Styles */
+.badge {
+    padding: 8px 12px;
+    border-radius: 20px;
+    font-weight: 500;
+}
+
+/* Button Group Styles */
+.btn-group .btn {
+    padding: 6px 12px;
+    margin: 0 2px;
+}
+
+.btn-group .btn i {
+    margin-right: 5px;
+}
+
+/* Add Rule Button */
+.btn-primary {
+    background: linear-gradient(45deg, #3498db, #2980b9);
+    border: none;
+    padding: 10px 20px;
+    border-radius: 25px;
+    font-weight: 500;
+    transition: all 0.3s ease;
+}
+
+.btn-primary:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 15px rgba(52, 152, 219, 0.4);
+}
+
+/* Log Viewer Styles */
+.log-container {
+    background: #1e1e1e;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.log-header {
+    background: #2c3e50;
+    color: white;
+    padding: 15px;
+    font-weight: 500;
+    font-family: 'Consolas', monospace;
+}
+
+.log-header i {
+    margin-right: 10px;
+}
+
+.log-content {
+    padding: 20px;
+    max-height: 600px;
+    overflow-y: auto;
+    font-family: 'Consolas', monospace;
+    font-size: 14px;
+    line-height: 1.6;
+    color: #e0e0e0;
+}
+
+.log-entry {
+    margin-bottom: 8px;
+    padding: 8px;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+}
+
+.log-entry:hover {
+    background: rgba(255, 255, 255, 0.05);
+}
+
+.log-error {
+    color: #ff6b6b;
+}
+
+.log-warning {
+    color: #ffd93d;
+}
+
+.log-info {
+    color: #6c5ce7;
+}
+
+.log-entry i {
+    margin-right: 8px;
+}
+
+/* Alert Styles */
+.alert {
+    position: relative;
+    padding: 1rem 1.5rem;
+    margin-bottom: 1rem;
+    border: none;
+    border-radius: 10px;
+    animation: slideIn 0.3s ease-in-out;
+}
+
+.alert-success {
+    background-color: #d4edda;
+    color: #155724;
+    border-left: 4px solid #28a745;
+}
+
+.alert-danger {
+    background-color: #f8d7da;
+    color: #721c24;
+    border-left: 4px solid #dc3545;
+}
+
+@keyframes slideIn {
+    from {
+        transform: translateY(-100%);
+        opacity: 0;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .stats-card {
+        margin-bottom: 15px;
+    }
+    
+    .control-panel .btn {
+        margin: 5px;
+        width: 100%;
+    }
+}

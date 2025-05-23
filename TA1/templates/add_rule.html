@@ -1,0 +1,79 @@
+<!-- filepath: e:\TA1\templates\add_rule.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thêm quy tắc - IDS</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link href="{{ url_for('static', filename='css/styles.css') }}" rel="stylesheet">
+    <link href="{{ url_for('static', filename='css/add_rule.css') }}" rel="stylesheet">
+</head>
+<body>
+    <div class="container mt-4">
+        <h1 class="text-center logo">
+            <i class="fas fa-shield-alt"></i> Thêm quy tắc mới
+        </h1>
+        
+        <div class="row justify-content-center">
+            <div class="col-md-8">
+                <div class="rule-card">
+                    <form method="POST">
+                        <div class="form-group">
+                            <label for="id" class="form-label">
+                                <i class="fas fa-hashtag"></i> ID
+                            </label>
+                            <input type="text" class="form-control" id="id" name="id" required>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="name" class="form-label">
+                                <i class="fas fa-tag"></i> Name
+                            </label>
+                            <input type="text" class="form-control" id="name" name="name" required>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="description" class="form-label">
+                                <i class="fas fa-align-left"></i> Description
+                            </label>
+                            <textarea class="form-control" id="description" name="description" rows="3" required></textarea>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="value" class="form-label">
+                                <i class="fas fa-code"></i> Value (JSON)
+                            </label>
+                            <textarea class="form-control" id="value" name="value" rows="5" required></textarea>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="severity" class="form-label">
+                                <i class="fas fa-exclamation-triangle"></i> Severity
+                            </label>
+                            <select class="form-control" id="severity" name="severity" required>
+                                <option value="Low">Low</option>
+                                <option value="Medium">Medium</option>
+                                <option value="High">High</option>
+                                <option value="Critical">Critical</option>
+                            </select>
+                        </div>
+                        
+                        <div class="d-flex justify-content-between mt-4">
+                            <a href="/rules" class="btn btn-secondary">
+                                <i class="fas fa-arrow-left"></i> Back
+                            </a>
+                            <button type="submit" class="btn btn-primary">
+                                <i class="fas fa-plus"></i> Add Rule
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
