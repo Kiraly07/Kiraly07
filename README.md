@@ -19,16 +19,6 @@
 </div>
 
 <br/>
-
-<div align="center"> 
-  <a href="mailto:yourmail@example.com">
-    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
-
 <hr/>
 
 <h2 align="center">🛠️ Skills & Tools</h2>
@@ -46,6 +36,6 @@
 <h2 align="center">📊 GitHub Stats</h2>
 <br/>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=yourusername&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=yourusername&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="github stats"/>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Kiraly07&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Kiraly07&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="github stats"/>
 </div>
