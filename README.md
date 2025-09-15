@@ -1,10 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yourusername" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hey+There!+👋;+I'm+[Your+Name]!;+Cyber+Security+Student;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hey+There!+👋;+I'm+[Kiraly]!;+Cyber+Security;" />
 </h1>
 
-<h3 align="center">🔐 Passionate Cyber Security Student | CTF Player | Blue & Red Team Enthusiast</h3>
+<h3 align="center">🔐 Passionate Cyber Security | CTF Player | Blue & Red Team Enthusiast</h3>
 
 <br/>
 
