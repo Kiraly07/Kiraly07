@@ -4,21 +4,30 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kiraly;+Cyber+Security" />
 </h1>
 
-<h3 align="center">🔐 Red & Blue Team | CTF Enthusiast</h3>
+<h3 align="center">🔐 Red & Blue Team | Web CTF Player</h3>
 
 <br/>
 
 <div align="center">
  
- 🛡️ Experienced in **Penetration Testing**  
+ 🕵️ Strong interest in **Web Exploitation (main focus)**  
  
- 💡 Familiar with **Reverse Engineering, Web Exploitation, and **  
+ 💡 Basic knowledge of **Reverse Engineering, Pwn, Crypto, and Forensics**  
 
  📚 Always learning and improving in **Offensive & Defensive Security**  
 
 </div>
 
 <br/>
+
+<div align="center"> 
+  <a href="mailto:yourmail@example.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 
 <hr/>
 
